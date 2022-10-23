@@ -1,11 +1,7 @@
-# qiskit-fall-fest
-Repo for Qiskit Fall Fest hackathon:
+# Quantum Merkle Trees
 
-Current idea: Implement the following ML algorithms both in classical and quantum on MNIST dataset, then compare the speed up
+Made by: Arya Grayeli and John Dunbar
 
-- NN
-- CNN
-- KNN
-- SVM
-- Decision Tree
-- Random Forest
+Check out the .ipynb file for the code and quick demo
+
+Code references: https://arxiv.org/pdf/2112.14317.pdf
